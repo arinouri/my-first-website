@@ -1,6 +1,6 @@
 .class_selector {
+  background-color: #a88b61;
   color: #d5d1c5;
-  background-image: linear-gradient(r#a88b61, #3b3229);
 }
 
 #id_selector {
@@ -8,7 +8,7 @@
 }
 
 body {
-  background-image: linear-gradient(r#a88b61, #3b3229);
+  background-color: #a88b61;
   color: #dde1e4;
 }
 
@@ -27,9 +27,4 @@ body {
 
 img {
   border-radius: 50%;
-}
-
-#gradient_background {
-  background-color: #a88b61;
-  background-image: linear-gradient(#a88b61, white);
 }
