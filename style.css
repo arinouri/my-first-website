@@ -23,3 +23,7 @@ body {
 .center_text {
   text-align: center;
 }
+
+img {
+  border-radius: 50%;
+}
