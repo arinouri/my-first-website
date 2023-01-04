@@ -1,21 +1,22 @@
 .class_selector {
-  background-color: black;
-  color: rebeccapurple;
+  background-color: #a88b61;
+  color: #d5d1c5;
 }
 
 #id_selector {
-  color: red;
+  color: #d5d1c5;
 }
 
 body {
-  background-color: black;
-  color: tan;
+  background-color: #a88b61;
+  color: #dde1e4;
 }
 
 #intro_phara {
-  font-size: 20;
+  color: #3b3229;
+  font-size: 60;
   width: 300px;
-  border: 15px solid green;
+  border: 15px solid #484534;
   padding: 50px;
   margin: 20px auto;
 }
