@@ -1,4 +1,25 @@
+.class_selector {
+  background-color: black;
+  color: rebeccapurple;
+}
+
+#id_selector {
+  color: red;
+}
+
 body {
   background-color: black;
   color: tan;
+}
+
+#intro_phara {
+  font-size: 20;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px auto;
+}
+
+.center_text {
+  text-align: center;
 }
